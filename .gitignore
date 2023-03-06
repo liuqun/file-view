@@ -1,0 +1,10 @@
+.idea
+.vs
+.vscode
+node_modules
+example/pdf.pdf
+example/video.mp4
+example/word.docx
+example/ppt.pptx
+example/excel.xlsx
+example/pic.png

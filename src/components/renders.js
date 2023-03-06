@@ -73,6 +73,10 @@ const handlers = [
       "xml",
       "md",
       "log",
+      "c",
+      "cpp",
+      "cs",
+      "h",
     ],
     handler: async (buffer, target) => {
       return renderText(buffer, target);

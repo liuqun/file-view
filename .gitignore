@@ -1,3 +1,5 @@
+.vs
+.vscode
 node_modules
 example/pdf.pdf
 example/video.mp4
